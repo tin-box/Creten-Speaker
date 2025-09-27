@@ -5,14 +5,14 @@ I also modified his design using a square port on the top to mount controls and 
 
 This has been a fun hobby project and I hope sharing these 3D print STL files will allow other hobbyists to experiment and try out the appoach. 
 
-[[CretenBLE.png]]
+![Figure-1](https://github.com/tin-box/Creten-Speaker/CretenBLE.png "Figure-1")
 
 <h2>Instructions</h2>
 The included STL models were created with Fusion360 using the free maker edition. 
 The parts were all printed on a printer with 300mm x 300mm bed. 
 
 The form built in halves, both to allow the final product to be larger than the printer bed allows as well as to make it so the form can be removed from the housing once the concrete has cured.
-![[CretenHousing.png]]
+![Figure-1](https://github.com/tin-box/Creten-Speaker/CretenHousing.png "Figure-2")
 The Bottom Plate models are the first to print with the inner and outer shells mounting to the Bottom plates.  They all have a tongue and groove design that keeps everything from deforming with the weight of the concrete and also prevents the concrete from leaking, if you use vibration to remove air bubble from the mix.  
 
 The Pins hold all of the forms together and allow the form to be dissassembled once the concreete cures. 
