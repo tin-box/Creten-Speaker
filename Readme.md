@@ -5,7 +5,7 @@ I also modified his design using a square port on the top to mount controls and 
 
 This has been a fun hobby project and I hope sharing these 3D print STL files will allow other hobbyists to experiment and try out the appoach. 
 
-![[CretenBLE.png]]
+[[CretenBLE.png]]
 
 <h2>Instructions</h2>
 The included STL models were created with Fusion360 using the free maker edition. 
